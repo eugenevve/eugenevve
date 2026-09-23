@@ -26,4 +26,4 @@
 
 ## 📊 Stats Profile
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eugenevve&fire=8D90E2&stroke=F3C6F2&background=0%2CEB545400%2CEB545400&sideNums=F3C6F2&currStreakNum=8D90E2&currStreakLabel=8D90E2&ring=F3C6F2&sideLabels=8D90E2&dates=BD98E0)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eugenevve&v=1&fire=8D90E2&stroke=F3C6F2&background=0%2CEB545400%2CEB545400&sideNums=F3C6F2&currStreakNum=8D90E2&currStreakLabel=8D90E2&ring=F3C6F2&sideLabels=8D90E2&dates=BD98E0)](https://git.io/streak-stats)
